@@ -1,5 +1,5 @@
 # The Odin Project – Odin’s Recipes
-![image](imgs/odin-recipes-screenshot.png)
+![Screenshot](./imgs/odin-recipes-screenshot.png)
 This project is one of the first assignments in **The Odin Project Foundations Course**. It tests the foundational HTML skills I’ve learned so far by having me build a basic multi-page website.
 
 The goal of the project is to create a simple HTML website with an `index.html` page that links to three individual recipe pages. Each page focuses on practicing proper structure and semantic HTML.
