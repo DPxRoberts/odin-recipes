@@ -12,4 +12,4 @@ Overall, this project was an eye-opening experience that helped reinforce the co
 
 # Check It Out Live
 
-You can find a live demo of my project [here](https://dpxroberts.github.io/odin-recipes/recipes/macaroons.html).
+You can find a live demo of my project [here](https://dpxroberts.github.io/odin-recipes/index.html).
