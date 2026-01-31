@@ -9,3 +9,7 @@ Throughout this project, I worked with **ordered lists (`ol`)**, **unordered lis
 Additionally, I practiced using **image elements**, including setting `alt` text and adjusting `width` and `height` attributes to properly display images on the page.
 
 Overall, this project was an eye-opening experience that helped reinforce the core building blocks of web development and gave me a solid understanding of the basic structure of a website using HTML alone.
+
+# Check It Out Live
+
+You can find a live demo of my project [here](https://dpxroberts.github.io/odin-recipes/recipes/macaroons.html).
